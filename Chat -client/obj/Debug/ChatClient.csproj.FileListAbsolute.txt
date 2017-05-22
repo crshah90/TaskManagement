@@ -1,0 +1,16 @@
+D:\P16928Data Recovered By Stellar\D\chintan test\Calendar application v2.0\Chat -client\bin\Debug\ChatClient.exe.config
+D:\P16928Data Recovered By Stellar\D\chintan test\Calendar application v2.0\Chat -client\bin\Debug\ChatClient.exe
+D:\P16928Data Recovered By Stellar\D\chintan test\Calendar application v2.0\Chat -client\bin\Debug\ChatClient.pdb
+D:\P16928Data Recovered By Stellar\D\chintan test\Calendar application v2.0\Chat -client\bin\Debug\ExportToExcel.dll
+D:\P16928Data Recovered By Stellar\D\chintan test\Calendar application v2.0\Chat -client\bin\Debug\ExportToExcel.pdb
+D:\P16928Data Recovered By Stellar\D\chintan test\Calendar application v2.0\Chat -client\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+D:\P16928Data Recovered By Stellar\D\chintan test\Calendar application v2.0\Chat -client\obj\Debug\ChatClient.exe
+D:\P16928Data Recovered By Stellar\D\chintan test\Calendar application v2.0\Chat -client\obj\Debug\ChatClient.pdb
+E:\Calendar application v2.0\Chat -client\bin\Debug\ChatClient.exe.config
+E:\Calendar application v2.0\Chat -client\bin\Debug\ChatClient.exe
+E:\Calendar application v2.0\Chat -client\bin\Debug\ChatClient.pdb
+E:\Calendar application v2.0\Chat -client\bin\Debug\ExportToExcel.dll
+E:\Calendar application v2.0\Chat -client\bin\Debug\ExportToExcel.pdb
+E:\Calendar application v2.0\Chat -client\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+E:\Calendar application v2.0\Chat -client\obj\Debug\ChatClient.exe
+E:\Calendar application v2.0\Chat -client\obj\Debug\ChatClient.pdb
